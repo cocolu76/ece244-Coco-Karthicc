@@ -19,6 +19,6 @@ module hex_decoder(c, display);
 endmodule
 
 //*********for testing*************************************
-//module hex(input SW[3:0], output HEX0[6:0])
-	//hex_decoder H1(SW, HEX0);
-//endmodule
+module hex(input SW[3:0], output HEX0[6:0])
+	hex_decoder H1(SW, HEX0);
+endmodule
