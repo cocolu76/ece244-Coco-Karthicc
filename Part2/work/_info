@@ -1,0 +1,132 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/aweso/OneDrive/Documents/Skule_F2023/Logic/Lab_2/Part2
+vAND_2
+Z1 !s110 1695581802
+!i10b 1
+!s100 3Y?@751=PI]LF@7AG;Bah1
+IeUnZ_4Co?ck`DB_;l=ZF10
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1695581793
+Z4 8part2Copy.v
+Z5 Fpart2Copy.v
+L0 37
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1695581802.000000
+Z8 !s107 part2Copy.v|
+Z9 !s90 -reportprogress|300|part2Copy.v|
+!i113 1
+Z10 tCvgOpt 0
+n@a@n@d_2
+vIC_7408
+R1
+!i10b 1
+!s100 Bbh97S>4h@<<MCMTKXQPd3
+IV1OWTNDDTeDb0gKcBM[6H3
+R2
+R0
+R3
+R4
+R5
+Z11 L0 47
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@i@c_7408
+vmux2to1
+Z12 !s110 1695582138
+!i10b 1
+!s100 UjbGIi?9h]2YTf_OH[X=Y0
+IdDiJ5XGLa8aGz1VS?4MLg0
+R2
+R0
+Z13 w1695582003
+Z14 8part2.v
+Z15 Fpart2.v
+R11
+R6
+r1
+!s85 0
+31
+Z16 !s108 1695582138.000000
+Z17 !s107 part2.v|
+Z18 !s90 -reportprogress|300|part2.v|
+!i113 1
+R10
+vv7404
+R12
+!i10b 1
+!s100 jFh1^ELAVTUj0kJYCdD:>2
+I?Q9nSM6A5>=kO3di<67PM0
+R2
+R0
+R13
+R14
+R15
+L0 18
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+vv7408
+R12
+!i10b 1
+!s100 X];AH;0V;f]EieNQN:oQZ2
+IURPkU:eT>U8mzCJh1^z5V1
+R2
+R0
+R13
+R14
+R15
+L0 29
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+vv7432
+R12
+!i10b 1
+!s100 YAUOFhS``D[5nn^LA0f[f3
+I>;4ai4RMJ7Zn6@m=?hlT91
+R2
+R0
+R13
+R14
+R15
+L0 38
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
