@@ -1,19 +1,11 @@
 `timescale 1ns / 1ns // `timescale time_unit/time_precision
 
 
-//module part2(LEDR[5], SW[0]);
-  //  wire Connection; //Declare the wire called Connection
-    //something more
-
-    //block1 B1 (
-      //  .in1(SW[0]), // assign port SW[0] to port in1
-        //.out1(Connection) // assign wire Connection to port out1
-    //);
-    //block2 B2 (
-      //  .in2(Connection), // assign wire Connection to port in2
-        //.out2(LEDR[5]) // assign port LEDR[5] to port out2
-    //);
-//endmodule
+module part2(LEDR, SW);
+	input [9:0] SW;
+	output [9:0] LEDR;
+	mux2to1 C5(.x(SW[0]), .y(SW[1]), .s(SW[2]), .m(LEDR[0]));
+endmodule
 
 module v7404 (pin1, pin3, pin5, pin9, pin11, pin13, pin2, pin4, pin6, pin8, pin10, pin12);
     input pin1, pin3, pin5, pin13, pin11, pin9;
